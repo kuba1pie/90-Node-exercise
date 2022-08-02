@@ -1,3 +1,32 @@
+# new
+
+## Project setup
+```
+pnpm install
+```
+
+### Unit tests run
+```
+pnpm test
+```
+
+### Compiles
+```
+npx tsc
+```
+
+### Run App
+```
+node dist/app.js
+```
+
+Features: 
+- Node,
+- TypeScript,
+- Unit tests with Jest.
+
+Task:
+
 - You have to refactor code in app.js file. Change it, split it, improve it, do it your own way!
 - You can use version of node you prefer
 - Code was tested in node 6, 10, 12, 14, 16, so it should be quite version agnostic at this stage
